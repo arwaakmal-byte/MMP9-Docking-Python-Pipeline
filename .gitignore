@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pdbqt
+*.pdb
+results/*.csv
+!results/README.md
+.DS_Store
